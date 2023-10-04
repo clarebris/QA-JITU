@@ -1,0 +1,22 @@
+*{
+    font-family: 'Outfit', sans-serif;
+}
+img {
+    border-radius: 15px;
+    width: 350px;
+    margin-top:15px ;
+    
+  }
+body {
+    background-color: #e6e9f3;
+    font-family: 'Outfit', sans-serif;
+  }
+  .main{
+    background-color: white;
+    margin:10% auto;
+    width:400px ;
+    text-align: center;
+    padding: 0px;
+    border-radius: 25px;
+
+  }
